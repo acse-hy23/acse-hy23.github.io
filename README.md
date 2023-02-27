@@ -9,8 +9,9 @@
 I am taking a full-stack development role in customer engagement currently. I am familiar with Vue.js, Node.js, JavaScript, and Python development, and have practical experience with SAP BTP and UI5.
 
 Current interests:
-\- Cloud Computing: SAP BTP, Cloud Foundry, Microsoft Azure, Google Cloud Platform
-\- Cloud-Native: DevOps(Docker, Jenkins, K8s) and open-source projects like Grafana, Prometheus, etc.
+
+- Cloud Computing: SAP BTP, Cloud Foundry, Microsoft Azure, Google Cloud Platform
+- Cloud-Native: DevOps (Docker, Jenkins, K8s) and open-source projects like Grafana, Prometheus, etc.
 
 ## **Education**
 
