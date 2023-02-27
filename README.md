@@ -2,7 +2,7 @@
 
 [**GitHub**](https://github.com/YouHao0809) |
 [**Citations**](https://scholar.google.com/) |
-[**Linkedin**](www.linkedin.com/in/youhao0809)
+[**Linkedin**](https://www.linkedin.com/in/youhao0809)
 
 ## **Research Interests**
 
@@ -15,15 +15,15 @@ Current interests:
 
 ## **Education**
 
-- **Tongji University**, Shanghai, China
-  - BE, Software Engineering, 2017-2021
 - **Imperial College London**, London, UK
   - MS, Applied Computational Science and Engineering, 2023-2024
+- **Tongji University**, Shanghai, China
+  - BE, Software Engineering, 2017-2021
 
 ## **Experience**
 
 - **Frontend Software Developer,** **SAP**, Shanghai, China. 2023.01 – Now
-  - Working on B1aaS
+  - Developed in B1aaS project using SAPUI5 and also assisted in building CI/CD pipeline.
 - **Business Process Consultant,** **SAP**, Shanghai, China. 2021.05 – 2022.12
   - Skills: SAP BTP · SAPUI5 · SAP HANA · SAP Basis · Customer Engagement
 

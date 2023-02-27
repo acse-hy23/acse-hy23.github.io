@@ -2,7 +2,7 @@
 title: Hao You
 
 # 网站描述
-description: Hao You's Personal Website
+description: Personal Website
 
 # 网站 URL
 url: https://youhao0809.github.io/
@@ -14,22 +14,4 @@ author: Hao You
 github_username: YouHao0809
 
 # 网站主题
-theme: Minima
-
-# 语言
-language: en
-
-# 布局
-layout: default
-
-# 自定义页面路径
-permalink: /:title/
-
-# 是否启用搜索
-search_enabled: true
-
-# 是否在页面底部显示 GitHub 图标
-github_show_profile_link: true
-
-# 网站标志
-logo: /assets/images/logo.png
+# theme: Minima
