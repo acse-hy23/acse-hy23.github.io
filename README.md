@@ -6,12 +6,12 @@
 
 ## **Research Interests**
 
-I am taking a full-stack development role in customer engagement currently. I am familiar with Vue.js, Node.js, JavaScript, and Python development, and have practical experience with SAP BTP and UI5.
+Aspiring software engineer and developer with 2+ years of experience building and deploying applications on the cloud. Skilled in JavaScript, React, Python, and DevOps. Seeking a software engineer role to utilize technical expertise in cloud computing, microservices and agile development.
 
 Current interests:
 
-- Cloud Computing: SAP BTP, Cloud Foundry, Microsoft Azure, Google Cloud Platform
-- Cloud-Native: DevOps (Docker, Jenkins, K8s) and open-source projects like Grafana, Prometheus, etc.
+- AI & LLM: Machine Learning, Pytorch, LangChain
+- Cloud Native: DevOps (Docker, Jenkins, K8s) and Microsoft Azure, Google Cloud Platform.
 
 ## **Education**
 
@@ -22,16 +22,17 @@ Current interests:
 
 ## **Experience**
 
-- **Frontend Software Developer,** **SAP**, Shanghai, China. 2023.01 – Now
-  - Developed in B1aaS project using SAPUI5 and also assisted in building CI/CD pipeline.
+- **Software Developer,** **SAP**, Shanghai, China. 2022.12 – 2023.09
+  - Led research on large language models (LLMs), utilized BTP's LLM Service and LangChain for PoC.
+  - Developed and maintained cloud-based ERP solutions on Azure using React, Kubernetes, Docker, and GitHub Actions for testing and CI/CD workflows.
 - **Business Process Consultant,** **SAP**, Shanghai, China. 2021.05 – 2022.12
   - Skills: SAP BTP · SAPUI5 · SAP HANA · SAP Basis · Customer Engagement
 
 ## **Technical Skills**
 
 - Programming Languages
-  - Python, JavaScript, TypeScript, C++, Rust, Go
+  - Python, JavaScript, TypeScript, C++
 - Frameworks
-  - PyTorch, SAP UI5, Vue.js, React.js, Node.js
+  - PyTorch, LangChain, SAP UI5, Vue.js, React, Node.js
 - Others
-  - Linux, LaTeX, SQL, Azure, Docker, Jenkins, Kubernetes, Grafana, Git, Jira
+  - Linux, SQL, Azure, Docker, Kubernetes, Git, Jira, Unity
