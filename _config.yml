@@ -1,17 +1,5 @@
-# 网站标题
 title: Hao You
-
-# 网站描述
-description: Personal Website
-
-# 网站 URL
-url: https://youhao0809.github.io/
-
-# 作者名称
+tagline: Data Scientist
+description: Data scientist in London working on document AI, model evaluation and LLM workflows.
+url: https://acse-hy23.github.io
 author: Hao You
-
-# GitHub 用户名
-github_username: YouHao0809
-
-# 网站主题
-# theme: Minima

@@ -1,38 +1,22 @@
 # Hao You
 
-[**GitHub**](https://github.com/acse-hy23) |
-[**Citations**](https://scholar.google.com/) |
-[**Linkedin**](https://www.linkedin.com/in/youhao0809)
+Data scientist in London, working on document AI: embedding, classification, layout analysis, OCR and extraction models, and the evaluation, labelling tools and pipelines around them.
 
-## **Research Interests**
+[LinkedIn](https://www.linkedin.com/in/youhao0809/) · [GitHub](https://github.com/acse-hy23)
 
-Aspiring software engineer and developer with 2+ years of experience building and deploying applications on the cloud. Skilled in JavaScript, React, Python, and DevOps. Seeking a software engineer role to utilize technical expertise in cloud computing, microservices and agile development.
+## What I work on
 
-Current interests:
+- **Document AI models:** document and table classification, layout analysis, OCR and named-entity recognition, including fine-tuning vision-language models.
+- **Evaluation:** metrics designed from what downstream users need, blind human ratings, hard-case probe sets, and checks for leakage and distribution shift.
+- **LLM workflows:** LLM-drafted spreadsheet transformations with data-quality validation, and multi-model pre-labelling with human review.
+- **Serving and tooling:** LLM serving with vLLM on Kubernetes, a model-endpoint registry with daily health checks, and web apps for labelling and model comparison.
 
-- AI & LLM: Machine Learning, Pytorch, LangChain
-- Cloud Native: DevOps (Docker, Jenkins, K8s) and Microsoft Azure, Google Cloud Platform.
+## Experience
 
-## **Education**
+- **Viridien (CGG)**, London. Data Scientist, 2024 – present
+- **SAP**, Shanghai. Software Developer, 2021 – 2023. Full-stack enterprise apps, and CI/CD for an on-premise-to-cloud migration.
 
-- **Imperial College London**, London, UK
-  - MS, Applied Computational Science and Engineering, 2023-2024
-- **Tongji University**, Shanghai, China
-  - BE, Software Engineering, 2017-2021
+## Education
 
-## **Experience**
-
-- **Software Developer,** **SAP**, Shanghai, China. 2022.12 – 2023.09
-  - Led research on large language models (LLMs), utilized BTP's LLM Service and LangChain for PoC.
-  - Developed and maintained cloud-based ERP solutions on Azure using React, Kubernetes, Docker, and GitHub Actions for testing and CI/CD workflows.
-- **Business Process Consultant,** **SAP**, Shanghai, China. 2021.05 – 2022.12
-  - Skills: SAP BTP · SAPUI5 · SAP HANA · SAP Basis · Customer Engagement
-
-## **Technical Skills**
-
-- Programming Languages
-  - Python, JavaScript, TypeScript, C++
-- Frameworks
-  - PyTorch, LangChain, SAP UI5, Vue.js, React, Node.js
-- Others
-  - Linux, SQL, Azure, Docker, Kubernetes, Git, Jira, Unity
+- **Imperial College London**. M.Sc. Applied Computational Science & Engineering (Distinction), 2023 – 2024
+- **Tongji University**. B.E. Software Engineering, 2017 – 2021
